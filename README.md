@@ -1,5 +1,5 @@
 {
-"newVersion": "1.1",
+"newVersion": "1.2",
 "apkUrl": "",
 "versionNotes":"
 • Optimize UI
